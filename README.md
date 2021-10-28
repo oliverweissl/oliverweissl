@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oliverweissl
-- 👀 I’m interested in all AI and Finance related stuff
+- 👀 I’m interested in all AI, Blockchain and Finance related stuff
 - 🌱 I’m currently studying AI at the VU Amsterdam
 - 📫 How to reach me o.weissl@student.vu.nl
 
